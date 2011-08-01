@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="org.codingkata.unit.IntegrationTest">
+        <test-method status="PASS" signature="testKata()" name="testKata" duration-ms="14" started-at="2011-07-31T12:11:27Z" finished-at="2011-07-31T12:11:27Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

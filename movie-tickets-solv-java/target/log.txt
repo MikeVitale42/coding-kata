@@ -1,0 +1,107 @@
+
+========================= DEBUG OUTPUT START ===============================
+ ~~ Arriving at your booth: 'Family of Four' ~~
+Today (SAT) they want to see a 89 min. long movie from the loge.
+ -> 46 years old person buys a ticket
+ -> 45 years old person buys a ticket
+ -> 12 years old person buys a ticket
+ -> 21 years old student buys a ticket
+Price = [11.0] + [3.5] == [14.5]
+Price = [11.0] + [3.5] == [14.5]
+Price = [5.5] + [3.5] == [9.0]
+Price = [8.0] + [3.5] == [11.5]
+
+ ~~ Arriving at your booth: 'Group of Kids' ~~
+Today (SUN) they want to see a 91 min. long 3D movie from the parquet.
+ -> 12 years old person buys a ticket
+ -> 11 years old person buys a ticket
+ -> 12 years old person buys a ticket
+ -> 10 years old person buys a ticket
+ -> 12 years old person buys a ticket
+Price = [5.5] + [4.5] == [10.0]
+Price = [5.5] + [4.5] == [10.0]
+Price = [5.5] + [4.5] == [10.0]
+Price = [5.5] + [4.5] == [10.0]
+Price = [5.5] + [4.5] == [10.0]
+
+ ~~ Arriving at your booth: 'Couple' ~~
+Today (THU) they want to see a 124 min. long movie from the parquet.
+ -> 23 years old person buys a ticket
+ -> 25 years old student buys a ticket
+Price = [11.0] + [-0.5] == [10.5]
+Price = [8.0] + [-0.5] == [7.5]
+
+ ~~ Arriving at your booth: 'Senior with Grandson' ~~
+Today (FRI) they want to see a 95 min. long 3D movie from the parquet.
+ -> 6 years old person buys a ticket
+ -> 65 years old person buys a ticket
+Price = [5.5] + [3.0] == [8.5]
+Price = [6.0] + [3.0] == [9.0]
+
+ ~~ Arriving at your booth: 'Student Course' ~~
+Today (THU) they want to see a 120 min. long movie from the parquet.
+ -> 55 years old person buys a ticket
+ -> 21 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 21 years old student buys a ticket
+ -> 21 years old student buys a ticket
+ -> 21 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 21 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 21 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 23 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 22 years old student buys a ticket
+ -> 23 years old student buys a ticket
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+Price = [6.0] + [0.0] == [6.0]
+
+========================== DEBUG OUTPUT END ================================
+
+ ############################################################################
+ #############               _ _           _        _           #############
+ #############    __ ___  __| (_)_ _  __ _| |____ _| |_ __ _    #############
+ #############   / _/ _ \/ _` | | ' \/ _` | / / _` |  _/ _` |   #############
+ #############   \__\___/\__,_|_|_||_\__, |_\_\__,_|\__\__,_|   #############
+ #############                       |___/                      #############
+ #############                                 CODINGKATA.ORG   #############
+ ############################################################################
+ #                                                                          #
+ # Kata solved.                                                             #
+ # Well done, kohai!                                                        #
+ #                                                                          #
+ # And the popcorn girl looks at you adoringly...                           #
+ #                                                                          #
+ ############################################################################
+

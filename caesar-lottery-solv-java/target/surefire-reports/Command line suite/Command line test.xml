@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="Command line test" failures="0" tests="1" time="0.021" errors="0">
   <properties/>
-  <testcase name="testKata" time="0.014" classname="org.codingkata.unit.IntegrationTest"/>
+  <testcase name="testKata" time="0.013" classname="org.codingkata.unit.IntegrationTest"/>
 </testsuite>

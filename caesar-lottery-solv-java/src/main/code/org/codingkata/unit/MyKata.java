@@ -3,7 +3,7 @@ package org.codingkata.unit;
 import org.codingkata.unit.api.BaseKataSolution;
 
 public class MyKata extends BaseKataSolution {
-	private static String[] numerals = new String[1001];
+	private static String[] numerals = new String[51];
 	
 	static {
 		numerals[0] = "";
@@ -21,20 +21,6 @@ public class MyKata extends BaseKataSolution {
 		numerals[30] = "XXX";
 		numerals[40] = "XL";
 		numerals[50] = "L";
-		numerals[60] = "LX";
-		numerals[70] = "LXX";
-		numerals[80] = "LXXX";
-		numerals[90] = "XC";
-		numerals[100] = "C";
-		numerals[200] = "CC";
-		numerals[300] = "CCC";
-		numerals[400] = "CD";
-		numerals[500] = "D";
-		numerals[600] = "DC";
-		numerals[700] = "DCC";
-		numerals[800] = "DCCC";
-		numerals[900] = "CM";
-		numerals[1000] = "M";
 	}
 	
 	/**

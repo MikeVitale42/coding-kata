@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.202" errors="0" skipped="0" tests="1" name="TestSuite">
+<testsuite failures="0" time="0.2" errors="0" skipped="0" tests="1" name="TestSuite">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries"/>
@@ -22,7 +22,7 @@
     <property name="basedir" value="/Users/mike/coding-kata/caesar-lottery-solv-java"/>
     <property name="java.endorsed.dirs" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefirebooter7669176211240894138.jar"/>
+    <property name="surefire.real.class.path" value="/Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefirebooter2332158365151585754.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/7I/7IROmA8sFRWPvD5oNfzCWk+++TI/-Tmp-/"/>
     <property name="line.separator" value="
 "/>
@@ -46,7 +46,7 @@
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
-    <property name="sun.java.command" value="/Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefirebooter7669176211240894138.jar /Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefire1523832455771917777tmp /Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefire5395398133105975341tmp"/>
+    <property name="sun.java.command" value="/Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefirebooter2332158365151585754.jar /Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefire1460565860352814074tmp /Users/mike/coding-kata/caesar-lottery-solv-java/target/surefire/surefire1063432801597839732tmp"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="apple.awt.CToolkit"/>
